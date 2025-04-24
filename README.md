@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Alisha Ruqshan Kadiri </h1>
 
-🚀 **DATA ENGINEER **| **Cloud + ML Enthusiast** | Pipeline Whisperer
+🚀** **DATA ENGINEER ****| **Cloud + ML Enthusiast** | Pipeline Whisperer
 -🔧 I design and build cloud-native, scalable data pipelines
 - 💻 Comfortable across Azure, AWS, Databricks, Snowflake, and Informatica
 - 🔁 I specialize in Apache Airflow, dbt, Delta Lake, and CI/CD workflows.
